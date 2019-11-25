@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=LA05A_N Pin=JB1A-46
+Removed Pin From Net: NetName=LA05A_P Pin=JB1A-48
+Removed Pin From Net: NetName=LA03A_N Pin=JB1A-70
+Removed Pin From Net: NetName=LA03A_P Pin=JB1A-72
+Removed Pin From Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18
+Removed Pin From Net: NetName=LA05B_N Pin=JB1B-46
+Removed Pin From Net: NetName=LA05B_P Pin=JB1B-48
+Removed Pin From Net: NetName=LA03B_N Pin=JB1B-70
+Removed Pin From Net: NetName=LA03B_P Pin=JB1B-72
+Removed Member From Class: ClassName=Supply for FPGA, FMC and SDRAM2 Member=IC21
+Removed Member From Class: ClassName=Supply for FPGA, FMC and SDRAM2 Member=IC23
+Added Pin To Net: NetName=LA03A_N Pin=JB1A-46
+Added Pin To Net: NetName=LA03A_P Pin=JB1A-48
+Added Pin To Net: NetName=LA05A_N Pin=JB1A-70
+Added Pin To Net: NetName=LA05A_P Pin=JB1A-72
+Added Pin To Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18
+Added Pin To Net: NetName=LA03B_N Pin=JB1B-46
+Added Pin To Net: NetName=LA03B_P Pin=JB1B-48
+Added Pin To Net: NetName=LA05B_N Pin=JB1B-70
+Added Pin To Net: NetName=LA05B_P Pin=JB1B-72
+Added Member To Class: ClassName=Power Member=Wire VS1

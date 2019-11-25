@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=SpWA_SinA_N Pin=D4A-1
+Removed Pin From Net: NetName=SpWA_SinA_P Pin=D4A-2
+Removed Pin From Net: NetName=SpWA_SinB_N Pin=D4B-1
+Removed Pin From Net: NetName=SpWA_SinB_P Pin=D4B-2
+Removed Pin From Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18
+Added Pin To Net: NetName=SpWA_SinA_P Pin=D4A-1
+Added Pin To Net: NetName=SpWA_SinA_N Pin=D4A-2
+Added Pin To Net: NetName=SpWA_SinB_P Pin=D4B-1
+Added Pin To Net: NetName=SpWA_SinB_N Pin=D4B-2
+Added Pin To Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18

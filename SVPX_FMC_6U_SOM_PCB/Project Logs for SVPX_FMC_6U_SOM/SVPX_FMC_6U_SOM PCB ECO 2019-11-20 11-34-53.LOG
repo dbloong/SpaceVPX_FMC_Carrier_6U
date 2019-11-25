@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18
+Added Pin To Net: NetName=UPD_SPI.UPD_SSB Pin=JB1B-18
